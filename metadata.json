@@ -1,0 +1,6 @@
+{
+  "name": "Studio Bella Arte - Salão & Estética",
+  "description": "Sistema completo para salão de beleza com agendamento online, lembretes via WhatsApp com confirmação em 1 clique, loja de produtos integrada com checkout e pagamento rápido, controle de estoque, fluxo de caixa e relatórios gerenciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
